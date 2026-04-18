@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/SolutionItems/">
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="publish.bat" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/SmallTown.Blazor/SmallTown.Blazor.csproj" />
+  <Project Path="src/SmallTown/SmallTown.csproj" Id="0b9c3d41-d09f-4c37-a682-02774d41bc64" />
+</Solution>
